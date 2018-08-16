@@ -1,2 +1,2 @@
 # HelloWorld
-My first hello world program
+My first hello world program in python.
